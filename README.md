@@ -1,2 +1,3 @@
 # meetup_apprentissage
-to be able to share slide
+
+Vous pourrez trouver ici toutes les slides des présentations effectuées pendant le meetup
